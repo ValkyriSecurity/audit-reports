@@ -7,7 +7,7 @@ Here we share the public audit reports :
 | Dualguard | Web2 | Webapp, Typsecript | Private |
 | Avon | MegaETH | Lending Protocol, Solidity | [View Report](./reports/report-3.pdf) |
 | Noya Staking | EVM | Staking, Solidity |[View Report](https://custodiasecurity.xyz/audits/Custodia%20Security%20-%20Noya%20Review%20Report%203.pdf) |
-| SIR | EVM | DeFi, Solidity [View Report](https://custodiasecurity.xyz/audits/Custodia%20Security%20-%20SIR%20Review%20Report.pdf) |
+| SIR | EVM | DeFi, Solidity | [View Report](https://custodiasecurity.xyz/audits/Custodia%20Security%20-%20SIR%20Review%20Report.pdf) |
 | Size | EVM | Lending Marketplace, Solidity | [View Report](https://custodiasecurity.xyz/audits/Custodia%20Security%20-%20Size%20v1.8%20Review%20Report.pdf) |
 | Ultraviolet | L2 | P2P, Infra  | Private |
 | BAOs.fun | EVM | DAO, Defi, Solidity | [View Report](https://custodiasecurity.xyz/audits/Custodia%20Security%20-%20BAOs.fun%20Review%20Report.pdf) |
