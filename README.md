@@ -16,3 +16,5 @@ Here we share the public audit reports :
 | Size v1.5 | EVM | Lending Marketplace, Solidity | [View Report](./reports/report-5.pdf) |
 | IVX v2 | EVM | DEX, AMM, RWA | [View Report](https://custodiasecurity.xyz/audits/Custodia%20Security%20-%20IVX%20v2%20Report.pdf) |
 | Noya Mitigation | EVM | Mitigation script, Oracle | [View Report](./reports/report-5.pdf) |
+
+Interested in security / RFQ ? [Let's chat](https://t.me/ValkyriSecurity)
