@@ -3,7 +3,7 @@
 Here we share the public audit reports :
 | Category | Ecosystem | Tech |Report |
 |:---|:---|:---:|:---:|
-| Utexo Bridge | EVM | Cross chain infra, Bridge, Solidity |[View Report](.reports/valkyri-utexo-bridge-contracts.pdf) |
+| Utexo Bridge | EVM | Cross chain infra, Bridge, Solidity |[View Report](/reports/valkyri-utexo-bridge-contracts.pdf) |
 | Dualguard | Web2 | Webapp, Typsecript | Private |
 | Avon | MegaETH | Lending Protocol, Solidity | [View Report](./reports/report-3.pdf) |
 | Noya Staking | EVM | Staking, Solidity |[View Report](https://custodiasecurity.xyz/audits/Custodia%20Security%20-%20Noya%20Review%20Report%203.pdf) |
