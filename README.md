@@ -17,4 +17,4 @@ Here we share the public audit reports :
 | IVX v2 | EVM | DEX, AMM, RWA | [View Report](https://custodiasecurity.xyz/audits/Custodia%20Security%20-%20IVX%20v2%20Report.pdf) |
 | Noya Mitigation | EVM | Mitigation script, Oracle | [View Report](./reports/report-5.pdf) |
 
-Interested in security / RFQ ? [Let's chat](https://t.me/ValkyriSecurity)
+#### Interested in security or RFQ ? [Let's chat](https://t.me/ValkyriSecurity)
